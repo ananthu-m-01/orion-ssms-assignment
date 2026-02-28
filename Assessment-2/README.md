@@ -38,11 +38,6 @@ CREATE TABLE Employee (
 );
 ```
 
-**Screenshot:**
-
-![Create Table](./images/create-table.png)
-
----
 
 ## Task 2: Insert Data
 
