@@ -92,7 +92,8 @@ AND Salary > 50000;
 ```sql
 SELECT *
 FROM Employees
-WHERE Department IN ('HR', 'Finance');
+WHERE Department = 'HR'
+   OR Department = 'Finance';
 ```
 
 **Screenshot:**
