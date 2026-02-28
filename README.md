@@ -6,7 +6,7 @@ This repository contains the SQL Server Management Studio (SSMS) assessment subm
 
 | #  | Topic | Description |
 |----|-------|-------------|
-| 1  | AND, OR, LIKE & Bitwise Operators | Working with logical and bitwise operators in SQL |
+| 1  | [AND, OR, LIKE & BETWEEN Operators](./Assessment-1/README.md) | Working with logical and comparison operators in SQL |
 | 2  | Basic SQL Concepts | Fundamentals of SQL including SELECT, INSERT, UPDATE, DELETE |
 | 3  | Joins - Customer Order Management System | Implementing various JOIN operations using a customer order management database |
 | 4  | Operators - Library Management System | Using SQL operators with a library management system database |
